@@ -1,1 +1,1 @@
-# electron-pixi
+# electron-webpack-template
